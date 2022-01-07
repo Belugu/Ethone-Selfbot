@@ -2,10 +2,11 @@
  <p align="center">Ethone SB</p>
  <p align="center"><img src="https://media.discordapp.net/attachments/926206753203429468/926957919877079100/eth.png" height=250 width=250/></p> 
  <p align="center"> 
- <a><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Ethone-SB?style=for-the-badge"></a> <img src="https://img.shields.io/badge/Made%20with-Python-green?style=for-the-badge"/></a> </p> 
+ <a><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Ethone-SB?style=for-the-badge"></a> <img src="https://img.shields.io/badge/Made%20with-Python-green?style=for-the-badge"/></a></p> 
   
  # **<p align="center">[ Discord Support Server ](https://discord.gg/3wmBDUMTJr)</p>**  **<p align="center">[ Youtube Showcase ](https://youtu.be/YLT2FutrbUo)</p>** 
-  
+ ## Donate
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L87TRSV)
  ## Table of contents 
  Newest Free Discord Selfbot with useful commands and easy documentation and setup. 
   
