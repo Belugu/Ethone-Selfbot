@@ -30,8 +30,10 @@
  ### Discord Embed 
   
  <img src="https://cdn.discordapp.com/attachments/926206753203429468/926995386017669150/unknown.png" width="370px"> 
-  ```
- ## Changelog v1.6: 
+ 
+ 
+ ## Changelog v1.6:
+ ```
  Misc: 
      [+] exchange 
      [+] dox 
@@ -55,7 +57,7 @@
   
  - <img src="https://avatars.githubusercontent.com/u/68169550?v=4" width="15px"> [ !94#6666 ](https://github.com/Najuky94) 
  - <img src="https://avatars.githubusercontent.com/u/92057383?v=4" width="15px"> [ Lodi#0002 ](https://github.com/Lodisus) 
- --- 
+
   
 <p align="center"><a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-5E81AC.svg?style=flat-square"/></a></p>
 
