@@ -32,7 +32,7 @@
  <img src="https://cdn.discordapp.com/attachments/926206753203429468/926995386017669150/unknown.png" width="370px"> 
  
  
- ## Changelog v1.6:
+ ## Changelog v1.7:
  ```
  Misc: 
      [+] exchange 
